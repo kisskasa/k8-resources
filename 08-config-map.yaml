@@ -1,0 +1,8 @@
+piVersion: v1
+kind: ConfigMap
+metadata:
+  name: chandrakasa
+data:
+  course: "DevOps with AWS"
+  trainer: "sivakumar"
+  github: "https://github.com/kisskasa/k8-resources"
