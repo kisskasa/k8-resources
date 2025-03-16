@@ -10,11 +10,11 @@ spec:
     - name: course
       valueFrom:
         configMapkeyRef:
-          name: daws78s
+          name: chandrakasa
           key: course
     - name: trainer
       valueFrom:
         configMapkeyRef:
-          name: daws78s
+          name: chandrakasa
           key: trainer
 
