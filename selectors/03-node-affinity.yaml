@@ -13,6 +13,6 @@ spec:
             values:
             - expense
   containers:
-  - name: with-node-affinity
+  - name: with-node-affinity-1
     image: nginx
   
